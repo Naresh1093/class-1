@@ -1,0 +1,26 @@
+.menu{
+  height:100px;
+  background-color:rebeccapurple;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+}
+.menu a{
+  color:#fff;
+  padding:12px 15px;
+  text-decoration:none;
+  font-size:1.2em;
+  font-weight:600;
+  transition:all 0.6s ease-in;
+}
+.menu a:hover{
+  background-color:#222;
+}
+.carousel-item{
+  height:550px;
+}
+.rounded-circle{
+  width:30%;
+}
+
+
